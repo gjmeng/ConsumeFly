@@ -1,0 +1,14 @@
+name: ConsumeFly
+main: xin.rainyn.consumefly.ConsumeFly
+version: 1.0.0
+author: Rainyner
+commands:
+  consumefly:
+    usage: /consumefly
+    description: '付出一定代价来进行像创造模式一样的飞行'
+    aliases: ['cf']
+    #permission: 'consumefly.fly'
+    #permission-message: '您没有权限来执行此命令'
+  #permissions:
+    #consumefly.fly:
+      #default: true  #op  op所有  true  所有人拥有
